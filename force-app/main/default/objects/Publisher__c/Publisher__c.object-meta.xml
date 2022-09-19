@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description
+  >A Publisher is the entity that created a Listing. A Publisher could be salesforce.com, Salesforce Labs, an ISV (independent software vendor), a SI (systems integrator), or a developer just wishing to share some code.</description>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableActivities>true</enableActivities>
+    <label>Publisher</label>
+    <nameField>
+        <label>Provider Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Publishers</pluralLabel>
+    <sharingModel>Private</sharingModel>
+</CustomObject>

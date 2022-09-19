@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AudioVideoDuration__c</fullName>
+    <description
+  >Only applicable for Audio and Video Content listings. This will be the length of this piece of content.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Only applicable for Audio and Video Content listings. This will be the length of this piece of content.</inlineHelpText>
+    <label>Audio/Video Duration</label>
+    <length>8</length>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

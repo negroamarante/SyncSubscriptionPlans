@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Featured__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Indicates if this listing is returned when users filter for featured apps in the search results.</description>
+    <inlineHelpText
+  >Indicates if this listing is returned when users filter for featured apps in the search results.</inlineHelpText>
+    <label>Featured</label>
+    <trackHistory>true</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

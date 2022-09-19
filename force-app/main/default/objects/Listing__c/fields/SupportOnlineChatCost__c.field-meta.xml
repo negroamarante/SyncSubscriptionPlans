@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportOnlineChatCost__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Indicates if online chat support costs something beyond the standard app fee.</description>
+    <inlineHelpText
+  >Indicates if online chat support costs something beyond the standard app fee.</inlineHelpText>
+    <label>SupportOnlineChatCost</label>
+    <type>Checkbox</type>
+</CustomField>

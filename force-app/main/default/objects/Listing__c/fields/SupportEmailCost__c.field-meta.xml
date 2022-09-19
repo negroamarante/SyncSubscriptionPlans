@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportEmailCost__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Indicates if email support costs something beyond the standard app fee.</description>
+    <inlineHelpText
+  >Indicates if email support costs something beyond the standard app fee.</inlineHelpText>
+    <label>SupportEmailCost</label>
+    <type>Checkbox</type>
+</CustomField>

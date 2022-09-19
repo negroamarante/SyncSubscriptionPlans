@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ListingNumber__c</fullName>
+    <description
+  >A unique identifier for the listing. Used to aid data migration.</description>
+    <displayFormat>L-{0}</displayFormat>
+    <externalId>true</externalId>
+    <inlineHelpText
+  >A unique identifier for the listing. Used to aid data migration.</inlineHelpText>
+    <label>ListingNumber</label>
+    <type>AutoNumber</type>
+</CustomField>

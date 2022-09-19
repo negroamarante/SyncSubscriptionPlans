@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PublishLocation__c</fullName>
+    <description>Partner finder feed.</description>
+    <inlineHelpText>Partner finder feed.</inlineHelpText>
+    <label>Publish To</label>
+    <trackHistory>true</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>AppExchange</fullName>
+                <default>true</default>
+                <label>AppExchange</label>
+            </value>
+            <value>
+                <fullName>French Partner Finder</fullName>
+                <default>false</default>
+                <label>French Partner Finder</label>
+            </value>
+            <value>
+                <fullName>German Partner Finder</fullName>
+                <default>false</default>
+                <label>German Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Italian Partner Finder</fullName>
+                <default>false</default>
+                <label>Italian Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Japanese Partner Finder</fullName>
+                <default>false</default>
+                <label>Japanese Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Korean Partner Finder</fullName>
+                <default>false</default>
+                <label>Korean Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Portuguese Partner Finder</fullName>
+                <default>false</default>
+                <label>Portuguese Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Dutch Partner Finder</fullName>
+                <default>false</default>
+                <label>Dutch Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Spanish Partner Finder</fullName>
+                <default>false</default>
+                <label>Spanish Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Swedish Partner Finder</fullName>
+                <default>false</default>
+                <label>Swedish Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Chinese Partner Finder</fullName>
+                <default>false</default>
+                <label>Chinese Partner Finder</label>
+            </value>
+            <value>
+                <fullName>Traditional Chinese Partner Finder</fullName>
+                <default>false</default>
+                <label>Traditional Chinese Partner Finder</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

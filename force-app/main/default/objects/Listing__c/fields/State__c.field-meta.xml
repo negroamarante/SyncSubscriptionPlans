@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>State__c</fullName>
+    <description
+  >The specific state/province in which the job must be filled.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >The specific state/province in which the job must be filled.</inlineHelpText>
+    <label>State/Province</label>
+    <length>255</length>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

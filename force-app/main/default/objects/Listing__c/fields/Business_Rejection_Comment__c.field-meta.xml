@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Business_Rejection_Comment__c</fullName>
+    <description
+  >The reason this listing&apos;s Business Questionnaire was rejected. This is used in the email sent to the partner, combined with the Compliance Rejection Comment, informing them that their submission was rejected.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >The reason this listing&apos;s Business Questionnaire was rejected. This is used in the email sent to the partner, combined with the Compliance Rejection Comment, informing them that their submission was rejected.</inlineHelpText>
+    <label>Business Rejection Comment</label>
+    <length>2000</length>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

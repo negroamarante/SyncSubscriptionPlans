@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AdditionalDetails__c</fullName>
+    <description>Additional details for the subscription plan.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Optionally highlight any additional information about the pricing for this application to customers.</inlineHelpText>
+    <label>Additional Details</label>
+    <required>false</required>
+    <type>TextArea</type>
+</CustomField>

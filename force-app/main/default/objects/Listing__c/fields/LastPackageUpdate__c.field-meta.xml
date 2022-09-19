@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LastPackageUpdate__c</fullName>
+    <description
+  >GetItNowPackageVersionID field last updated date and time.</description>
+    <inlineHelpText
+  >GetItNowPackageVersionID field last updated date and time.</inlineHelpText>
+    <label>LastPackageUpdate</label>
+    <type>DateTime</type>
+</CustomField>

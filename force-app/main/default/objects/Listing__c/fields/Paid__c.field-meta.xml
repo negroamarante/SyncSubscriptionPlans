@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Paid__c</fullName>
+    <description
+  >This formula field checks if a listing is free formula: PriceFree__c = false AND Freemium__c = false AND RequiresPaidService__c = false used for filters</description>
+    <externalId>false</externalId>
+    <formula
+  >PriceFree__c = false &amp;&amp; Freemium__c = false &amp;&amp; RequiresPaidService__c = false</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText
+  >This formula field checks if a listing is free formula: PriceFree__c = false AND Freemium__c = false AND RequiresPaidService__c = false used for filters</inlineHelpText>
+    <label>Paid</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

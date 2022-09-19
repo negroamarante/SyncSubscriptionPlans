@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>EstimatedBudget__c</fullName>
+    <description>Estimated Budget for the job (any job type)</description>
+    <externalId>false</externalId>
+    <formula
+  >IF(ISPICKVAL(JobType__c,'Fixed Price'),FixedPriceBudgetAvg__c,HourlyRateAvg__c * VALUE(TEXT(HoursPerWeek__c)) * VALUE(TEXT(Duration__c)))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>Estimated Budget for the job (any job type)</inlineHelpText>
+    <label>Budget($ USD)</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

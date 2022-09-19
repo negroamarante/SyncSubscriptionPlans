@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Contract_Type__c</fullName>
+    <description>Contract type set via a callout from the TE org.</description>
+    <externalId>false</externalId>
+    <label>Contract Type</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Connector</fullName>
+                <default>false</default>
+                <label>Connector</label>
+            </value>
+            <value>
+                <fullName>Freemium</fullName>
+                <default>false</default>
+                <label>Freemium</label>
+            </value>
+            <value>
+                <fullName>ISVforce clickthrough</fullName>
+                <default>false</default>
+                <label>ISVforce clickthrough</label>
+            </value>
+            <value>
+                <fullName>ISVforce non-standard</fullName>
+                <default>false</default>
+                <label>ISVforce non-standard</label>
+            </value>
+            <value>
+                <fullName>OEM</fullName>
+                <default>false</default>
+                <label>OEM</label>
+            </value>
+            <value>
+                <fullName>VAR</fullName>
+                <default>false</default>
+                <label>VAR</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

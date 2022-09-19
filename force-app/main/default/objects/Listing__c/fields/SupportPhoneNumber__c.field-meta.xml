@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportPhoneNumber__c</fullName>
+    <description
+  >The phone number where customers can call you to get support for your app.</description>
+    <inlineHelpText
+  >The phone number where customers can call you to get support for your app.</inlineHelpText>
+    <label>Phone Support</label>
+    <type>Phone</type>
+</CustomField>

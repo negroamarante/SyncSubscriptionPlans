@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>FixedPriceBudgetMin__c</fullName>
+    <description>Min value of range for FixedPriceBudget</description>
+    <externalId>false</externalId>
+    <formula>CASE(FixedPriceBudgetAvg__c,
+          250, 0,
+          750, 500,
+          3000,1000,
+          7500,5000,
+          30000,10000,
+          50000,50000,
+       0)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>Min value of range for FixedPriceBudget</inlineHelpText>
+    <label>FixedPriceBudgetMin__c</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

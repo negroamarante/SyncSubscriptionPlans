@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SystemRequirements__c</fullName>
+    <description
+  >Any additional system requirements your app may have.</description>
+    <inlineHelpText
+  >Specify any additional system requirements that your app may have. For example, supported browsers, operating systems, or hardware. If your app does not have any additional system requirements, select &quot;No Additional System Requirements&quot;.</inlineHelpText>
+    <label>Other System Requirements</label>
+    <type>TextArea</type>
+</CustomField>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HoursPerWeek__c</fullName>
+    <description
+  >The range of number of hours per week the employer expects the developer to work on the job.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >The range of number of hours per week the employer expects the developer to work on the job.</inlineHelpText>
+    <label>Hours/Week</label>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>2.5</fullName>
+                <default>false</default>
+                <label>2.5</label>
+            </value>
+            <value>
+                <fullName>7.5</fullName>
+                <default>false</default>
+                <label>7.5</label>
+            </value>
+            <value>
+                <fullName>15</fullName>
+                <default>false</default>
+                <label>15</label>
+            </value>
+            <value>
+                <fullName>30</fullName>
+                <default>false</default>
+                <label>30</label>
+            </value>
+            <value>
+                <fullName>40</fullName>
+                <default>false</default>
+                <label>40</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

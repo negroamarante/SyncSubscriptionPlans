@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LongDescription__c</fullName>
+    <description
+  >The long description of the AppListing show on the App Detail page.</description>
+    <inlineHelpText
+  >The long description of the AppListing show on the App Detail page.</inlineHelpText>
+    <label>Full Description</label>
+    <length>1200</length>
+    <type>LongTextArea</type>
+    <visibleLines>9</visibleLines>
+</CustomField>

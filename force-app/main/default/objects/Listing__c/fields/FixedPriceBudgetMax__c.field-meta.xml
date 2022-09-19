@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>FixedPriceBudgetMax__c</fullName>
+    <description>Max value for FixedPriceBudget</description>
+    <externalId>false</externalId>
+    <formula>CASE(FixedPriceBudgetAvg__c,
+          250, 500,
+          750, 1000,
+          3000,5000,
+          7500,10000,
+          30000,50000,
+          50000,100000,
+       100001)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>Max value for FixedPriceBudget</inlineHelpText>
+    <label>FixedPriceBudgetMax</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

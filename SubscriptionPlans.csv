@@ -1,0 +1,189 @@
+﻿Name,Active__c,recordtypeId,CustomUnits__c,Display_Order__c,Frequency__c,IntervalLength__c,Livemode__c,OfferTieredOrDiscPricing__c,RequireCustomerToContactMe__c,TrialLengthInDays__c,Units__c,ExternalId__c,Charge__c,Currency__c,Listing__c
+One Time Plan,true,SelfCheckout,,3,One-Time,1,true,false,false,0,User,,1000,USD,F - Monthly Subscription - Collect payment details after installation
+One Time Payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1000,USD,Fabi One Time 01
+One Time Payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1000,USD,Fabi One Time 03
+One Time Payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1000,USD,Fabi One Time 04
+Test,true,SelfCheckout,,2,One-Time,1,true,false,false,0,User,,359,USD,AAA LP App
+One Time Payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,2000,USD,F - One Time Payment  - Collect payment details after installation
+One Time Payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1000,USD,F - One Time Payment  - Collect payment details before installation
+One Time Payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1000,USD,Fabi One Time 02
+1,true,SelfCheckout,,0,One-Time,,true,false,false,0,Company,,1,AUD,Test Pricing round 2
+Fabi Test OAF ID,true,SelfCheckout,,6,One-Time,1,true,false,false,0,User,,200,USD,Fabi Monthly 01 - Before
+COMPANY,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,10000,USD,Fabi One Time - Company
+One Time ListingPricingPage,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,15,USD,Partner Listing RG 1
+One Time Payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,10000,USD,Fabi Company - After Install
+One Time Payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1000,USD,Testing Paid Flows
+Fabi Sepa One Time,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,0,EUR,Fabi - One Time - SEPA Payment
+paln oner,true,SelfCheckout,,2,One-Time,1,true,false,false,0,User,,1,USD,appex7.1 custom domain release
+a0y30000002XHJ9,true,SelfCheckout,,,One-Time,1,false,false,false,0,Company,,29,USD,Unconvert
+Setup Fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,500,USD,Eventgrid
+a0y30000002XQQd,true,SelfCheckout,,,One-Time,1,false,false,false,0,Company,,200,USD,Task Management
+Drop My Dossier One Off,true,SelfCheckout,,3,One-Time,1,true,false,false,0,Company,,1500,USD,Drop my Dossier - document your org with a click of a button
+1000 prints,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,100,USD,stripe test
+$50 per user,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,50,USD,Lightning Click Button Component
+Inverto360 (Unlimited),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,2550,USD,INVERTO360 (CONVERT ACCOUNTS/CONTACTS BACK TO LEADS)
+Salesforce Integration,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Tiled for Salesforce
+AWS-S3-Connector,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,240,USD,Amazon S3 Connector
+BaseCase Connector pricing plan,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,100,USD,BaseCase Connector
+NUACOM CTI User Licence,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,5,USD,NUACOM CTI | Click-to-Dial | Call Recording | Telephony | Dialer
+Object Field Analyzer One Time,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1000,USD,JUVENTAS - Object Field Analyzer
+a0y30000002WsKx,true,SelfCheckout,,,One-Time,,false,false,false,0,Company,,119,USD,Drop my Dossier
+Installation Fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1,USD,FreshBooks for Salesforce
+Fugent,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,0,USD,Fugent
+ContractWorks Connector,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,500,USD,ContractWorks Connector
+100,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,100,USD,Agenta Snap
+$50.00 USD per user (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,50,USD,Predict
+"Cloud Applications ""Chatter Auto Translator"" unlimited users Self Support Editio",true,SelfCheckout,,5,One-Time,1,true,false,false,0,Company,,50000,JPY,Chatter Auto Translator
+NN Install,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Noteninja
+MultiTask,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,10,USD,MultiTask
+SocialToaster for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,0.99,USD,SocialToaster for Salesforce
+Taveza Templates,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,49,USD,"Taveza Lightning Templates - 107 Templates For App, Home and Record Pages"
+TurnouTIntroductoryPrice,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,15,USD,"TurnouT - Attendance tracking for classes, events & workshops"
+TEST One time,true,SelfCheckout,,7,One-Time,1,true,false,false,0,Company,,6000,EUR,Alex Listing
+Annual Concurrent User,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1200,USD,ImageTrust for Salesforce
+$1.00 per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Exactor Sales Tax App
+$ USD per org (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,"Ticketbud-Salesforce Connector: Event Management, Ticketing and Registration."
+Tilkee - Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,39,EUR,Tilkee for Salesforce
+One-Time Setup Fee,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,395,USD,AppShark Open SMS Pro
+basic subscription license,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,4,USD,rakumo Sync
+$1 Salesforce setup fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Concierge Live App
+Contently's Salesforce Integration,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,5,USD,Contently
+SmartOffice Connector App,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,SmartOffice Connector
+SalesForce Integration,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,99,USD,FreightPrint™ - Manage your freight seamlessly!
+a0y30000002WyPM,true,SelfCheckout,,1,One-Time,1,false,false,false,0,Company,,199,USD,Cervello Highrise Converter
+One Time Charge per Organization,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,OJConnect for OmniJoin
+Business Coder for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,95,USD,Melissa Data Business Coder
+Nav Integration,true,SelfCheckout,1,1,One-Time,1,true,false,false,0,Company,,300,USD,Goldfinch Integration with Microsoft Dynamics NAV
+Document Extractor built for Salesforce platform™ - 10 user package testing,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,840,USD,Document Extractor built for Salesforce platform™ - Integration with SharePoint
+Basis,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,7,EUR,ICT
+Echo Analytics User License,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,79,USD,Echoware
+"Business Credit Reports, Inc.: Synergy for Salesforce",true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,"Business Credit Reports, Inc.: Synergy for Salesforce"
+One Time Fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,100,USD,Greenhouse.io Integration
+$1000 USD One Time,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1000,USD,SPOG (Single Pane of Glass)
+App Installation and Setup,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,2000,USD,Eligibility Checker: Medical insurance eligibility & benefits verification
+Polytomic for Salesforce Live Chat,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,9.99,USD,Polytomic for Chat
+$10.00 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,10,USD,Flow Masked Input Field
+100 per user (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,100,USD,Visual Compliance™–Verification for Sales
+Initial Feature,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1,USD,TranscendTrade
+test,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,10,USD,Pscale1.0-lstTest
+$1900.00 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1900,USD,Leads Group Pro
+One Time Fee,true,SelfCheckout,,5,One-Time,1,true,false,false,0,Company,,50000,USD,Dog Tracker & Client Tracker
+test one time plan,true,SelfCheckout,,2,One-Time,1,true,false,false,0,User,,2,USD,AppOnetimeUser
+One Time Plan,true,SelfCheckout,,3,One-Time,1,true,false,false,0,User,,1000,USD,Self Checkout Enabled Listing
+One-time fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Gotransverse Intelligent Billing Connector to Salesforce
+Badan,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1,USD,Finacast Test
+Listware for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,19.99,USD,n/a
+Enthcast 30 day free trial,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,800,USD,EnthCast: Automated Revenue Scheduling
+Place Anywhere One-time (introductory offer),true,SelfCheckout,,3,One-Time,1,true,false,false,0,Company,,1000,CAD,Place Anywhere Utility Components
+OSF Licenses Optimizer,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,499,USD,OSF LICENSES OPTIMIZER for Salesforce Community Cloud
+Enterprise,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,200,USD,CovrEdge - Generate revenue
+One time,true,SelfCheckout,,2,One-Time,1,true,false,false,0,User,,1,USD,patchtest
+ChattoMate - One off user payment,true,SelfCheckout,,3,One-Time,1,true,false,false,0,User,,300,USD,ChattoMate - Workflow Automation for Chatter
+George Plan,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,10,GBP,The best listing of ever
+one time test,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,5,BOB,App Listing Test Bug
+Polytomic Salesforce widget,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,9.99,USD,Polytomic
+ZIWO CTI activation fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,100,USD,Ziwo CTI
+Akucast Installation Service (required),true,SelfCheckout,,5,One-Time,1,true,false,false,0,Company,,3500,USD,Akucast | Best Sales Forecasting And Pipeline Management
+dCyder 1x Payment,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,10000,USD,dCyder
+e-bot7 AI Assistant,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,2000,EUR,e-bot7 Assistant
+Per Instance License,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,5000,USD,"CloudSync by Cloudely, Inc"
+Rambl for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Rambl
+Default,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,OLD_ eSSential LMS
+a0y30000002WWeb,true,SelfCheckout,,2,One-Time,,false,false,false,0,User,,50,USD,Ring my Bell - Celebrate & Gamify Sales & Service
+ClonerRx Pro,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,14.99,USD,CloneRx Pro - Easily clone records and their child records
+Annual Subscription,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,800,USD,VendorPay - Salesforce to Paypal Integration
+Listware for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,19.99,USD,Clean Suite for CRM: All-in-One Data Cleansing App
+€50.00 EUR per user /month,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,50,EUR,Flowtap
+Setup fee Salesforce-Integration,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1800,EUR,Episerver Campaign
+$79.95 per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,79.95,USD,Ben's Listing 112234
+DataGrail SFDC Integration,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,0,USD,DataGrail
+Logicpay one-time fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,3000,USD,"Logicpay - Integrated Payments | Credit Card, ACH Processing"
+Set-up-fee,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,250,USD,Enterprise Archiving & Compliance for Chatter by PageFreezer
+$9.99 PU Introductory price,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,9.99,USD,Hilo Plan - AI Assisted Revenue Forecasting & Planning
+$ USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Webinfinity PRM Connector for Salesforce
+Integration (Optional),true,SelfCheckout,,4,One-Time,1,true,false,false,0,Company,,1500,CAD,Budget Manager
+onetime,true,SelfCheckout,,6,One-Time,1,true,false,false,0,User,,112,INR,SurPaaSJtrac
+One time charge,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Ring.io Power Dialer and Call Center for Salesforce
+SD.ai One Time,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,50,USD,"AutoScribe - Activity, Email Capture & Data Entry for Outlook, Gmail, Office 365"
+One-time required fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,OneReach.ai Event Connector
+$20.00 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,20,USD,Dialoga PBX for Salesforce
+$20.00 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,20,USD,Dialoga ACD for Salesforce
+YOVU Dialer for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,10,CAD,YOVU CTI Dialer - Click to Call - Screen Pop
+12,true,SelfCheckout,,4,One-Time,1,true,false,false,0,User,,123,USD,packagebased
+RingByName Integration,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1,USD,RingByName Telephony | Click-to-Call | CTI | Dialer | Recording | Auto-Attendant
+Salesforce Integration,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,49,GBP,Inkpact
+Salesforce-ServiceAide Connector App,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,250,USD,ServiceAide Connector
+Real Phone Validation,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,19.99,USD,"Phone Validation: Provides connected/disconnected, phone type, and carrier id"
+One-time,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,100,USD,File Space Saver
+LabPulse,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,10,USD,LabPulse
+a0y3A000003JZz5,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,500,USD,Judy Diamond Associates - Group Insurance Data Connector
+Per Agent Per Month,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,26,USD,Acqueon CTI Connector for Cisco
+Intercall,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,6000,USD,Intercall - Increase Productivity By Streamlining Your Team’s Phone Conversation
+Fully Functional Download (Requires Subscription),true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,0,USD,Modigie
+Retrieve VTS for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,0,USD,Retrieve VTS
+woolloo for Retail connector,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1000,AUD,woolloo for Retail
+Trustfuel AppExchange Package,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,0,USD,Trustfuel
+1,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Revitas ContractWIZE Connector for Salesforce (Contract Lifecycle Management)
+Einmalig Firma,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,1500,EUR,KSG Kampagnen Tool
+SELECTit One-time,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,21499,GBP,SELECTit
+Zultys Communicator for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1,USD,Zultys Communicator for Salesforce (Lightning Ready)
+$1.00 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Strala Integration App
+$10.00 USD per user (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,10,USD,Support.com
+One time fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,0,USD,People.ai
+Trillium Quality,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,3500,USD,Trillium Quality
+standard rate,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,19.99,USD,Max's Pitch Package
+Per Salesforce Installation,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1250,USD,Accord LMS Connector
+Leadership Connect App,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Leadership Connect
+One-time payment,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,50,USD,Outcome-Based Selling
+$50.00 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,50,USD,Dynamic Flexipages
+$400/month (base) + $20/month (additional creators),true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,400,USD,iorad - solution article maker
+$1.00 USD per user (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1,USD,JETNET for Salesforce
+Ostrij Setup Fee,true,SelfCheckout,,4,One-Time,1,true,false,false,0,Company,,1500,USD,Ostrij - Your Salesforce Integration Tool (Quickbooks/Slack/Stripe/Other)
+iModules Connector for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,99,USD,iModules Connector
+One Time License Fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1500,USD,Cadence SMS App
+RealPhoneValidation,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,19.99,USD,DNC Check - Do Not Call Lookup
+Basic,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1,USD,Compass for Salesforce
+$4000.00 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,4000,USD,NetExam LMS - Channel Partner & Customer Training and Certification System
+Locus Salesforce Connector,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,500,USD,Locus Energy Connector for Salesforce
+One time only demo fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,20000,USD,Qelp self-service support
+$19.00 USD per user per month,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,19,USD,SaleUp Lead Scoring
+Salesforce Connector Set Up,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,3199,USD,FUSE Search
+Smart Duplicate Manager,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,0,USD,Smart Duplicate Manager | Salesforce Duplicate Management made easy
+Proof of Concept,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,5000,USD,Passage AI
+Standard,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,100,EUR,Service-Flow Integration for BMC RemedyForce
+Salesforce Installation,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,2500,USD,VerifyTX Health Insurance Verification
+Lead Ratings - Salesforce app,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,0,EUR,Lead Ratings Predictive Scoring
+Greater Giving,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,5,USD,Greater Giving
+Salesforce App,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,FunnelCake for Salesforce
+1,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,ActionKit
+$500.00 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,500,USD,BlueVolt App for Salesforce
+Draft,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,350,USD,"Harbor - Investment Technology for HFs, PE, and RE"
+Free,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,0.99,USD,VisitDays - Enrollment Solution
+"$360 USD per user, per year",true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,360,USD,AutoBoard Systems
+$2500.00 USD per SF Org (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,2500,USD,Multi-Lingual Quote
+One Time Fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,2000,USD,Multi-Lingual Quote Generator old
+Free Plan,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,0,USD,SAASPASS Single Sign-On
+Price per user,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,10,USD,Recruiting - Testing - SR
+Early Adopter,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,5,USD,Xplore
+File Manager,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,5,USD,Lightning File Manager
+FREE,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,0,USD,ScoringBar Connector
+One time fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1000,USD,Apty for Salesforce
+SID Online Xporter,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,SID Online Xporter
+AMSTAT for Salesforce,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,AMSTAT for Salesforce
+Revenue Navigator,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,35,USD,FCST Revenue Navigator (Lightning version)
+March 2020 Offer,true,SelfCheckout,,4,One-Time,1,true,false,false,0,User,,1,GBP,10Cast - Improved Deal Management and Sales Forecasting
+UpToCloud Non Profit Organization,true,SelfCheckout,,2,One-Time,1,true,false,false,0,User,,12,USD,UPTOCLOUD - Acceleration of bespoke apps. Ready Offline & User Adoption Monitor
+Kwanzoo ABM Buyer Insights,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Kwanzoo Buyer Insights
+Company,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,10,USD,SalesIntel - Target Your Ideal Prospects & Accelerate Revenue Growth
+$500 USD per company (one-time),true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,500,USD,CompeteIQ
+One Time Charge,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Ordway Billing & Revenue Automation
+Review Initiator,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,1,USD,Demand Review by DemandBlue
+BatonSalesforce-OneTime,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Baton
+$12 per user,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,12,USD,Contract Wrangler for Salesforce
+Core Plan,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,9.99,EUR,Connecteur Xivo
+QX Care,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,199,USD,QX Care
+ULTATEL Salesforce CRM Integration,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,27.95,USD,Ultatel integration for salesforce
+Encentivizer Awareness,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,1,USD,Encentivizer by Encentiv Energy
+$4.99 USD per user per month,true,SelfCheckout,,1,One-Time,1,true,false,false,0,User,,4.99,USD,External File Storage
+Activation Fee,true,SelfCheckout,,1,One-Time,1,true,false,false,0,Company,,2500,GBP,Infoteam Roadmap
+Fabi One Time,true,SelfCheckout,,2,One-Time,1,true,false,false,0,Company,,122,USD,paid new listing checkout
