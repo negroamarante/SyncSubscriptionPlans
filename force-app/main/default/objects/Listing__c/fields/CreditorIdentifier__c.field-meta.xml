@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CreditorIdentifier__c</fullName>
+    <description
+  >A Single Euro Payments Area Creditor Identifier or SEPA Creditor Id is a standardized and unchanging identification number that serves to unequivocally identify a creditor across Europe.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >A Single Euro Payments Area Creditor Identifier or SEPA Creditor Id is a standardized and unchanging identification number that serves to unequivocally identify a creditor across Europe.</inlineHelpText>
+    <label>Creditor Identifier</label>
+    <length>255</length>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

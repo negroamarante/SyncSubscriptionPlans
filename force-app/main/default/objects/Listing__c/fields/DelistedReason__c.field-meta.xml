@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DelistedReason__c</fullName>
+    <description>Reason for delisting.</description>
+    <inlineHelpText>Reason for delisting.</inlineHelpText>
+    <label>DelistedReason</label>
+    <trackHistory>true</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Partner went out of business</fullName>
+                <default>false</default>
+                <label>Partner went out of business</label>
+            </value>
+            <value>
+                <fullName>Partner bought out</fullName>
+                <default>false</default>
+                <label>Partner bought out</label>
+            </value>
+            <value>
+                <fullName>Application had technical issues</fullName>
+                <default>false</default>
+                <label>Application had technical issues</label>
+            </value>
+            <value>
+                <fullName>Product failed to gain traction</fullName>
+                <default>false</default>
+                <label>Product failed to gain traction</label>
+            </value>
+            <value>
+                <fullName>Unhappy with partnership</fullName>
+                <default>false</default>
+                <label>Unhappy with partnership</label>
+            </value>
+            <value>
+                <fullName>Temp delisting</fullName>
+                <default>false</default>
+                <label>Temp delisting</label>
+            </value>
+            <value>
+                <fullName>App had not been updated</fullName>
+                <default>false</default>
+                <label>App had not been updated</label>
+            </value>
+            <value>
+                <fullName>No owner to maintain App</fullName>
+                <default>false</default>
+                <label>No owner to maintain App</label>
+            </value>
+            <value>
+                <fullName>App had low installs</fullName>
+                <default>false</default>
+                <label>App had low installs</label>
+            </value>
+            <value>
+                <fullName>Not Lightning Ready</fullName>
+                <default>false</default>
+                <label>Not Lightning Ready</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SearchBlurb__c</fullName>
+    <description
+  >Search Blurb to display on the search results page.</description>
+    <inlineHelpText
+  >Search Blurb to display on the search results page.</inlineHelpText>
+    <label>Tagline</label>
+    <length>75</length>
+    <type>Text</type>
+</CustomField>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>StartType__c</fullName>
+    <description
+  >Indicates if the job should start immediately or on a specific date.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Indicates if the job should start immediately or on a specific date.</inlineHelpText>
+    <label>Start</label>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Immediately</fullName>
+                <default>false</default>
+                <label>Immediately</label>
+            </value>
+            <value>
+                <fullName>Specific Date</fullName>
+                <default>false</default>
+                <label>Specific Date</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

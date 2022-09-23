@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Editions__c</fullName>
+    <description
+  >The Salesforce editions on which the app will run.</description>
+    <inlineHelpText
+  >Select one or more Salesforce editions with which your app is compatible. If your app uses Salesforce APIs, it cannot run on Group or Professional editions. If your app uses any standard Salesforce objects, it cannot run on Force.com edition.</inlineHelpText>
+    <label>Salesforce Edition</label>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>ES</fullName>
+                <default>false</default>
+                <label>ES</label>
+            </value>
+            <value>
+                <fullName>PE</fullName>
+                <default>false</default>
+                <label>PE</label>
+            </value>
+            <value>
+                <fullName>EE</fullName>
+                <default>false</default>
+                <label>EE</label>
+            </value>
+            <value>
+                <fullName>UE</fullName>
+                <default>false</default>
+                <label>UE</label>
+            </value>
+            <value>
+                <fullName>FE</fullName>
+                <default>false</default>
+                <label>FE</label>
+            </value>
+            <value>
+                <fullName>DE</fullName>
+                <default>false</default>
+                <label>DE</label>
+            </value>
+            <value>
+                <fullName>PP</fullName>
+                <default>false</default>
+                <label>PP</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>3</visibleLines>
+</CustomField>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TestDriveUserName__c</fullName>
+    <description
+  >The evaluation user name used to access the test drive for this AppListing.</description>
+    <inlineHelpText
+  >The evaluation user name used to access the test drive for this AppListing.</inlineHelpText>
+    <label>TestDriveUserName</label>
+    <length>80</length>
+    <type>Text</type>
+</CustomField>

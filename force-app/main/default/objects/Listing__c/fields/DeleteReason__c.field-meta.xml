@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DeleteReason__c</fullName>
+    <description
+  >The reason the publisher specified when deleting this Listing.</description>
+    <inlineHelpText
+  >The reason the publisher specified when deleting this Listing.</inlineHelpText>
+    <label>DeleteReason</label>
+    <type>TextArea</type>
+</CustomField>

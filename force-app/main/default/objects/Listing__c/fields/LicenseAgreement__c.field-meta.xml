@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LicenseAgreement__c</fullName>
+    <description>The license agreement for the app.</description>
+    <inlineHelpText
+  >You can optionally provide your license agreement to use your app. Customers must agree to these terms in order to install your app. If you do not provide an agreement, a standard salesforce.com agreement will be provided for you.</inlineHelpText>
+    <label>Terms &amp; Conditions</label>
+    <length>32000</length>
+    <type>LongTextArea</type>
+    <visibleLines>9</visibleLines>
+</CustomField>

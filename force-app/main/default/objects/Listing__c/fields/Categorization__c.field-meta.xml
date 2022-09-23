@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Categorization__c</fullName>
+    <description>Names of the Categories assigned to the listing</description>
+    <externalId>false</externalId>
+    <label>Categorization</label>
+    <length>1000</length>
+    <required>false</required>
+    <type>LongTextArea</type>
+    <visibleLines>2</visibleLines>
+</CustomField>

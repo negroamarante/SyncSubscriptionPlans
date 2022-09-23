@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AllowCCPayment__c</fullName>
+    <defaultValue>true</defaultValue>
+    <description
+  >Field indicating whether the Listing accepts Credit Cards as Payment Method during the checkout flow.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Indicates if credit cards can be used as payment method during the checkout flow.</inlineHelpText>
+    <label>AllowCCPayment</label>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

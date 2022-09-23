@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SyncStatus__c</fullName>
+    <description
+  >Status after the synchronization with the billing API.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Status after the synchronization with the billing API.</inlineHelpText>
+    <label>SyncStatus</label>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>CreateFailed</fullName>
+                <default>false</default>
+                <label>CreateFailed</label>
+            </value>
+            <value>
+                <fullName>UpdateFailed</fullName>
+                <default>false</default>
+                <label>UpdateFailed</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

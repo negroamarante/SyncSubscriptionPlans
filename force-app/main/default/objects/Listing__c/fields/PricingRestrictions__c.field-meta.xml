@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PricingRestrictions__c</fullName>
+    <description
+  >Allow customers to see freemium pricing restrictions or external subscription details.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Allow customers to see freemium pricing restrictions or external subscription details.</inlineHelpText>
+    <label>PricingRestrictions</label>
+    <trackHistory>false</trackHistory>
+    <length>255</length>
+    <type>Text</type>
+</CustomField>

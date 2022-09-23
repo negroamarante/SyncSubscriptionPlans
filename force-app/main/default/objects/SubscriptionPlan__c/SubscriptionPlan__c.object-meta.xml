@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description
+  >Subscription Plan fot the Listing, it could be either external (meaning that the billing management is managed outside of Appexchange) or Recurly (meaning that the Recurly API will be used instead).</description>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <label>SubscriptionPlan</label>
+    <nameField>
+        <label>SubscriptionPlan Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>SubscriptionPlans</pluralLabel>
+    <searchLayouts />
+    <sharingModel>Private</sharingModel>
+</CustomObject>

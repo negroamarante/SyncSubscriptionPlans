@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Freemium__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >This app is initially free but payment is required for additional users, features, or usage.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >This app is initially free but payment is required for additional users, features, or usage.</inlineHelpText>
+    <label>Freemium</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

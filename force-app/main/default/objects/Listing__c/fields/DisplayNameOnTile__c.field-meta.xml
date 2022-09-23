@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DisplayNameOnTile__c</fullName>
+    <defaultValue>true</defaultValue>
+    <description
+  >Indicates whether or not the title is displayed on the tile</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Indicates whether or not the title is displayed on the tile</inlineHelpText>
+    <label>DisplayNameOnTile</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

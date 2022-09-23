@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ApplicationFeePercentage__c</fullName>
+    <description
+  >Application Fee Percentage is set depending on which Payment Method the customer use to pay the subscription. It could be card, bank or sepa debit</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Application Fee Percentage is set depending on which Payment Method the customer use to pay the subscription. It could be card, bank or sepa debit</inlineHelpText>
+    <label>Application Fee Percentage</label>
+    <precision>5</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackHistory>false</trackHistory>
+    <type>Percent</type>
+</CustomField>

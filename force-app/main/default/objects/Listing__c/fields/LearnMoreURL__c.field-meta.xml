@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LearnMoreURL__c</fullName>
+    <description
+  >The URL where the customer can contact the publisher to learn more about installing/buying the app.</description>
+    <inlineHelpText
+  >Specify the URL where the customer can contact the publisher to learn more about installing/buying the app.</inlineHelpText>
+    <label>Learn More URL</label>
+    <type>Url</type>
+</CustomField>

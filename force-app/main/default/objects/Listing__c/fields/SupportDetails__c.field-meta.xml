@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportDetails__c</fullName>
+    <description
+  >Detailed information on the support provided by the publisher for this Listing.</description>
+    <inlineHelpText
+  >Detailed information on the support provided by the publisher for this Listing.</inlineHelpText>
+    <label>Support Details</label>
+    <type>TextArea</type>
+</CustomField>

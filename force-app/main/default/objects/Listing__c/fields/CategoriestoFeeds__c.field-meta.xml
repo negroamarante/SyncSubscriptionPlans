@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CategoriestoFeeds__c</fullName>
+    <description>Categories to feed Feeds.</description>
+    <inlineHelpText>Categories to feed  Feeds.</inlineHelpText>
+    <label>CategoriesToFeeds</label>
+    <length>32000</length>
+    <type>LongTextArea</type>
+    <visibleLines>9</visibleLines>
+</CustomField>

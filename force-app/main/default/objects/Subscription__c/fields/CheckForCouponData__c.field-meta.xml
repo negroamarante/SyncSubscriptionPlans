@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CheckForCouponData__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Indicator to check for coupon data when subscription has been created via push notification.</description>
+    <externalId>false</externalId>
+    <label>CheckForCouponData</label>
+    <type>Checkbox</type>
+</CustomField>

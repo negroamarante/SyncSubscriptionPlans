@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CustomUnits__c</fullName>
+    <description
+  >Custom units used when custom unit type is selected.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Custom units used when custom unit type is selected.</inlineHelpText>
+    <label>CustomUnits</label>
+    <length>40</length>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

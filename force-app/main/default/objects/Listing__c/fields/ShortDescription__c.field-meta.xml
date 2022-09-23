@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ShortDescription__c</fullName>
+    <description
+  >A brief description that is displayed at the top of the listing, in results pages, and in hover overlays.</description>
+    <inlineHelpText
+  >A brief description that is displayed at the top of the listing, in results pages, and in hover overlays.</inlineHelpText>
+    <label>Brief Description</label>
+    <type>TextArea</type>
+</CustomField>

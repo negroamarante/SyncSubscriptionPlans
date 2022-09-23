@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportPhoneCost__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Indicates if phone support costs something beyond the standard app fee.</description>
+    <inlineHelpText
+  >Indicates if phone support costs something beyond the standard app fee.</inlineHelpText>
+    <label>SupportPhoneCost</label>
+    <type>Checkbox</type>
+</CustomField>

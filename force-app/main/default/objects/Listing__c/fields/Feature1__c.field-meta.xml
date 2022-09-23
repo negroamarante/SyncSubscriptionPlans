@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Feature1__c</fullName>
+    <description>The first feature bullet on the AppListing.</description>
+    <inlineHelpText>The first feature bullet on the AppListing.</inlineHelpText>
+    <label>Feature1</label>
+    <type>TextArea</type>
+</CustomField>

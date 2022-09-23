@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RequiresPaidService__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >This app is free but requires a paid subscription to an external service.</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >This app is free but requires a paid subscription to an external service.</inlineHelpText>
+    <label>RequiresPaidService</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

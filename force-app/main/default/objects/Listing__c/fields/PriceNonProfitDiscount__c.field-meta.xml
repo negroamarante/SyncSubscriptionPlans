@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PriceNonProfitDiscount__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Indicates whether the app is available to nonprofits for a discount or free.</description>
+    <inlineHelpText
+  >Indicates whether the app is available to nonprofits for a discount or free.</inlineHelpText>
+    <label>Discounted for Non-Profits and NGOs</label>
+    <type>Checkbox</type>
+</CustomField>

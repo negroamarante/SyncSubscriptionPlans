@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportOnlineChatURL__c</fullName>
+    <description
+  >The URL where customers can chat online with you to get support for your app.</description>
+    <inlineHelpText
+  >The URL where customers can chat online with you to get support for your app.</inlineHelpText>
+    <label>Online Chat URL</label>
+    <type>Url</type>
+</CustomField>

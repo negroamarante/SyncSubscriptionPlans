@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OrderInSetup__c</fullName>
+    <description
+  >The place this App has in the Featured Apps Carousel in Org&apos;s Setup.
+i.e : 1 for first, 2 for second, etc.</description>
+    <inlineHelpText
+  >The place this App has in the Featured Apps Carousel in Org&apos;s Setup.
+i.e : 1 for first, 2 for second, etc.</inlineHelpText>
+    <label>OrderInSetup</label>
+    <precision>2</precision>
+    <scale>0</scale>
+    <type>Number</type>
+    <unique>true</unique>
+</CustomField>

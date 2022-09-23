@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsFeaturedInSetup__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Determines whether a particular App Listing is featured in the Setup Module.</description>
+    <inlineHelpText
+  >Check this box if this App Listing is to be shown in the Setup Featured Apps Module.</inlineHelpText>
+    <label>IsFeaturedInSetup</label>
+    <type>Checkbox</type>
+</CustomField>

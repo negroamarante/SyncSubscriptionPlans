@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportKnowledgeBaseURL__c</fullName>
+    <description
+  >The URL where customers can read your knowledge base to get support for your app.</description>
+    <inlineHelpText
+  >The URL where customers can read your knowledge base to get support for your app.</inlineHelpText>
+    <label>Knowledge Base URL</label>
+    <type>Url</type>
+</CustomField>

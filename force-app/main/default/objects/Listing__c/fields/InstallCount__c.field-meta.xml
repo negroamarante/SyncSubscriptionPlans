@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>InstallCount__c</fullName>
+    <description
+  >The number of times people have clicked Get It Now or Learn More on this Listing.</description>
+    <inlineHelpText
+  >The number of times people have clicked Get It Now or Learn More on this Listing.</inlineHelpText>
+    <label>InstallCount</label>
+    <precision>8</precision>
+    <scale>0</scale>
+    <type>Number</type>
+</CustomField>

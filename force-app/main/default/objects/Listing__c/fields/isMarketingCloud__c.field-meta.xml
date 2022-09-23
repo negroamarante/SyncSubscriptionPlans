@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>isMarketingCloud__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Checkbox field on Listing for &quot;Marketing Cloud App&quot;. This will be set manually in Tz by an operations team.</description>
+    <externalId>false</externalId>
+    <label>isMarketingCloud</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

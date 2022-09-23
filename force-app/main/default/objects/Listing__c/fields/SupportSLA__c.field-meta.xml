@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportSLA__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Indicates if a consulting partner level agreement (SLA) exists for your app.</description>
+    <inlineHelpText
+  >Indicates if a consulting partner level agreement (SLA) exists for your app.</inlineHelpText>
+    <label>Service Level Agreement</label>
+    <type>Checkbox</type>
+</CustomField>

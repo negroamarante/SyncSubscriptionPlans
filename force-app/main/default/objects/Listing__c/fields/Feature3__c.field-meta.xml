@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Feature3__c</fullName>
+    <description>The third feature bullet on the AppListing.</description>
+    <inlineHelpText>The third feature bullet on the AppListing.</inlineHelpText>
+    <label>Feature3</label>
+    <type>TextArea</type>
+</CustomField>

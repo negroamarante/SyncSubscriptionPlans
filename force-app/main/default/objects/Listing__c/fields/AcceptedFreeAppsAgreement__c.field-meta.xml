@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AcceptedFreeAppsAgreement__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description
+  >Salesforce agreement that the publisher has to accept when a listing is free</description>
+    <externalId>false</externalId>
+    <label>AcceptedFreeAppsAgreement</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

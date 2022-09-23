@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DisplayAuthor__c</fullName>
+    <defaultValue>true</defaultValue>
+    <description
+  >Will toggle on or off the author section at the bottom of the content listing as well as in the header</description>
+    <externalId>false</externalId>
+    <inlineHelpText
+  >Will toggle on or off the author section at the bottom of the content listing as well as in the header</inlineHelpText>
+    <label>DisplayAuthor</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

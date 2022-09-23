@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DelistedDate__c</fullName>
+    <description>The date when this Listing delisted.</description>
+    <inlineHelpText>The date when this Listing delisted.</inlineHelpText>
+    <label>DelistedDate</label>
+    <trackHistory>true</trackHistory>
+    <type>Date</type>
+</CustomField>
