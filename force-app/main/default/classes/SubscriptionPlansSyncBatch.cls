@@ -38,8 +38,8 @@ public with sharing class SubscriptionPlansSyncBatch implements Database.Batchab
         getURLStringFromMap(params),
         sp.Listing__r.Publisher__r.BillingLiveAccessToken__c
       );
-      String priceId = String.valueOf(resp.get('id'));
-      if (priceId != null) {
+      if (resp != null && resp.containsKey('id')) {
+        String priceId = String.valueOf(resp.get('id'));
         sp.ExternalId__c = priceId;
         toUpdate.add(sp);
       }
@@ -84,12 +84,15 @@ public with sharing class SubscriptionPlansSyncBatch implements Database.Batchab
     req.setBody(body);
 
     try {
-      HttpResponse response = h.send(req);
       String responseBody;
-      if (!String.isEmpty(response.getBody())) {
+      HttpResponse response = h.send(req);
+      if (response.getStatusCode() == 400) {
+        responseBody = response.getBody();
+        system.debug(JSON.deserializeUntyped(responseBody));
+        return null;
+      } else if (response.getStatusCode() == 200) {
         responseBody = response.getBody();
       }
-
       return (Map<String, Object>) JSON.deserializeUntyped(responseBody);
     } catch (System.Exception e) {
       system.debug(e.getMessage());
